@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/base-1.5new/base-1.5new.iml" filepath="$PROJECT_DIR$/base-1.5new/base-1.5new.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base-advance/base-advance.iml" filepath="$PROJECT_DIR$/base-advance/base-advance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base-basic/base-basic.iml" filepath="$PROJECT_DIR$/base-basic/base-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base-collection/base-collection.iml" filepath="$PROJECT_DIR$/base-collection/base-collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base-gui/base-gui.iml" filepath="$PROJECT_DIR$/base-gui/base-gui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base-io/base-io.iml" filepath="$PROJECT_DIR$/base-io/base-io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base-regex/base-regex.iml" filepath="$PROJECT_DIR$/base-regex/base-regex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base-socket/base-socket.iml" filepath="$PROJECT_DIR$/base-socket/base-socket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base-string/base-string.iml" filepath="$PROJECT_DIR$/base-string/base-string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base-thread/base-thread.iml" filepath="$PROJECT_DIR$/base-thread/base-thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-base.iml" filepath="$PROJECT_DIR$/java-base.iml" />
+    </modules>
+  </component>
+</project>
